@@ -31,7 +31,3 @@ This system is made by using _JAVA_ and  _MYSQL_ to store customers information 
 
 ![image](https://user-images.githubusercontent.com/99750513/178429835-8148e114-dc25-4a10-85ac-ee6cb67e6b85.png)
 ![image](https://user-images.githubusercontent.com/99750513/178429870-0fd3cd84-8f7e-4753-a0a0-991f5729b426.png)
-
-**VIEW TABLE**
-
-![image](https://user-images.githubusercontent.com/99750513/178429959-241438f7-b27a-4092-8ef7-69f5d4a676c1.png)
