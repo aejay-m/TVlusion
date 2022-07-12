@@ -13,7 +13,7 @@ is a satellite television service provider in the Philippines
 
 
 **System description**:
-This system is made by using _JAVA _and _MYSQL _to  used to store customers 
+This system is made by using _JAVA_ and _MYSQL to  used to store customers 
 information and their subscription details.
 
 I provided UI screenshots in the TVlusion file
