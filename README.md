@@ -16,4 +16,4 @@ is a satellite television service provider in the Philippines
 This system is made by using _JAVA_ and  _MYSQL_ to  used to store customers 
 information and their subscription details.
 
-I provided UI screenshots in the TVlusion file
+**UI screenshots are provided in the TVlusion file**
