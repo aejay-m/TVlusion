@@ -2,7 +2,7 @@
 
 My school project in Database Management System (DBMS)
 
-**TVlusion ** is a customers' subscription system.  This aplication will be able to handle large quantities of information related to customers subription details. 
+**TVlusion** is a customers' subscription system.  This aplication will be able to handle large quantities of information related to customers subription details. 
 
 ## What I Learned
 * Normalization
