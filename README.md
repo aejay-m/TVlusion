@@ -1,7 +1,7 @@
 ## Hello there
 
 
-**About this project** : TVlusion is a customers' subscription  system school project in Database Management System
+**About this project** : TVlusion is a customers' subscription  system school project in my Information Management subject
 
 
 The **“TVlusion”** application will be able to handle large quantities of information related 
