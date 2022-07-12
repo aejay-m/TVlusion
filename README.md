@@ -1,19 +1,9 @@
-# Hello there
+# TVlusion
 
+My school project in Database Management System (DBMS)
 
-**About this project** : TVlusion is a customers' subscription system school project in my Information Management subject
+**TVlusion ** is a customers' subscription system. Thus This aplication will be able to handle large quantities of information related to customers subription. 
 
-
-The **“TVlusion”** application will be able to handle large quantities of information related 
-to customers.
-
-The purpose of this system is to create a data entry form and manage customers' subscriptions. 
-The developer choose a service application form based on the company called Cignal which
-is a satellite television service provider in the Philippines
-
-
-**System description**:
-This system is made by using _JAVA_ and  _MYSQL_ to store customers information and their subscription details.
 
 
 ## UI DESIGN
