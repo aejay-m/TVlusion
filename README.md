@@ -17,7 +17,7 @@ This system is made by using _JAVA _and _MYSQL _to  used to store customers
 information and their subscription details.
 
 
-**UI Screenshot**
+##**UI Screenshot**##
 
 ![image](https://user-images.githubusercontent.com/99750513/178425555-bc5e5ed1-439e-4a79-aa16-888e31df9a0f.png)
 ![image](https://user-images.githubusercontent.com/99750513/178425582-ece3dbb4-81ef-4a38-b008-73ab44335f4b.png)
