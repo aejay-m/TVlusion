@@ -1,4 +1,4 @@
-## Hello there
+### Hello there
 
 
 **About this project** : TVlusion is a customers' subscription system school project in my Information Management subject
@@ -17,7 +17,7 @@ This system is made by using _JAVA_ and  _MYSQL_ to  used to store customers
 information and their subscription details.
 
 
-##UI DESIGN##
+## UI DESIGN
 
 **SIGN UP PAGE**
 
