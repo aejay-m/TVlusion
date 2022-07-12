@@ -16,11 +16,12 @@ information and their subscription details. This system will efficiently create 
 facility for all customer personal information and allow easy inputs when they’re applying 
 for a subscription.
 
-**Database**:
-All information in the system was saved in MYSQL.
+**System description**:
+This system is made by using JAVA and all information in the system was saved in MYSQL.
 
 
-UI Screen shots: 
+** UI Screenshot **
+
 ![image](https://user-images.githubusercontent.com/99750513/178425555-bc5e5ed1-439e-4a79-aa16-888e31df9a0f.png)
 ![image](https://user-images.githubusercontent.com/99750513/178425582-ece3dbb4-81ef-4a38-b008-73ab44335f4b.png)
 ![image](https://user-images.githubusercontent.com/99750513/178425672-a53b1f73-52a8-4aeb-a3e6-9aa1594244d8.png)
