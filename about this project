@@ -1,0 +1,16 @@
+Hello!, 
+
+TVlusion is a customers' subscription system school project 
+
+The purpose of this system is to create a data entry form and manage 
+customers' subscriptions. The developer choose a service application form based on the company called Cignal which
+is a satellite television service provider in the Philippines
+
+In this system, The Database Management System (DBMS) MySQL will be used to store customers 
+information and their subscription details. This system will efficiently create a secure 
+facility for all customer personal information and allow easy inputs when they’re applying 
+for a subscription.
+
+The “TVlusion” application will be able to handle large quantities of information related 
+to customers. Furthermore, this application can access the data quickly and easily, 
+searching for information such as customer details and editing their data.
