@@ -1,4 +1,4 @@
-### Hello there
+# Hello there
 
 
 **About this project** : TVlusion is a customers' subscription system school project in my Information Management subject
